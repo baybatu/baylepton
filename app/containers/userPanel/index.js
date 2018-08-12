@@ -320,6 +320,7 @@ class UserPanel extends Component {
     return (
       <div className='user-panel'>
         <div>
+          { this.renderProfile() }
           { this.props.gistSyncStatus === 'IN_PROGRESS'
             ? <ProgressBar className='resync-progress-bar' active now={ 100 }/>
             : null }

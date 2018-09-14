@@ -7,29 +7,32 @@
 [![MIT Licensed](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://opensource.org/licenses/MIT)
 
 
-**Lepton** is a lean snippet manager based on *GitHub Gist*. [Check out its latest release.](https://github.com/hackjutsu/Lepton/releases)
+**Lepton** is a lean code snippet manager based on *GitHub Gist*. [Check out its latest release.](https://github.com/hackjutsu/Lepton/releases)
+
 - Unlimited public/private snippets
 - Unlimited tags
 - Language groups
-- Immersive mode
 - Markdown support
+- Jupyter Notebook viewer support
 - macOS/Win/Linux support
 - GitHub Enterprise support
-- Dashboard
+- Immersive mode
 - Customizable
+- Dashboard
 - Search
 - Proxy
 - Free
 
 ![Screenshot](./docs/img/portfolio/stay_organized.png)
 
-|      Organize         |  Markdown | Immersive Mode *(⌘/Ctrl + i)* |
+|      Organize         |  Markdown | Jupyter Notebook |
 | :-------------:| :-----:| :-----: |
-| ![Screenshot](./docs/img/portfolio/stay_organized.png) | ![Screenshot](./docs/img/portfolio/markdown.png) | ![Screenshot](./docs/img/portfolio/immersive.png)
+| ![Screenshot](./docs/img/portfolio/stay_organized.png) | ![Screenshot](./docs/img/portfolio/markdown.png) | ![Screenshot](./docs/img/portfolio/jupyterNotebook.png)
 
-|      Search (*⇧ + Space*)         |    Tags    | Dashboard *(⌘/Ctrl + d)* |
+|      Search (*⇧ + Space*)         |    Immersive Mode *(⌘/Ctrl + i)*    | Dashboard *(⌘/Ctrl + d)* |
 | :-------------:| :-----:| :-----: |
-| ![Screenshot](./docs/img/portfolio/search_bar.png) | ![Screenshot](./docs/img/portfolio/edit.png) | ![Screenshot](./docs/img/portfolio/dashboard.png)
+| ![Screenshot](./docs/img/portfolio/search_bar.png) | ![Screenshot](./docs/img/portfolio/immersive.png) | ![Screenshot](./docs/img/portfolio/dashboard.png)
+
 
 ## Shortcuts
 | Function       | Shortcut       |  Note     |
@@ -146,6 +149,7 @@ Check out the [.leptonrc template](https://gist.github.com/1ad7e4968eb64d881ec9d
       <td><img src=https://avatars1.githubusercontent.com/u/1841272?v=3><a href="https://github.com/popey">popey</a></td>
       <td><img src=https://avatars2.githubusercontent.com/u/6280136?v=3><a href="https://github.com/tonyxu-io">tonyxu-io</a></td>
       <td><img src=https://avatars3.githubusercontent.com/u/13814048?v=3><a href="https://github.com/rawrmonstar">rawrmonstar</a></td>
+      <td><img src=https://avatars2.githubusercontent.com/u/965804?v=3><a href="https://github.com/baybatu">baybatu</a></td>
    </tr>
 </table>
 

@@ -44,6 +44,7 @@ class NavigationPanelDetails extends Component {
         return 'active-snippet-thumnail-private'
       }
     }
+    logger.info('this.props.activeGist::' + this.props.activeGist)
     return 'snippet-thumnail'
   }
 
